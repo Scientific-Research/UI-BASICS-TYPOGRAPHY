@@ -1,0 +1,13 @@
+.bold{
+  font-weight: bold;
+  font-style: italic;
+  font-family: "serif";
+}
+
+.strong {
+  font-weight: bold;
+}
+
+/* .superscripted{
+    
+} */
